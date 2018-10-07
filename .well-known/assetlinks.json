@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "fr.timoreo.afkgesturephone",
+    "sha256_cert_fingerprints":
+    ["24:3F:CB:6D:D6:6E:9A:31:95:29:EF:D1:52:FB:BF:CB:BD:ED:81:37:3A:F1:C3:91:EB:90:CA:DB:34:EF:33:D2"]
+  }
+}]
