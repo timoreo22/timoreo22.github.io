@@ -3,3 +3,4 @@ future: true
 timezone: Europe/Paris
 title: "timoreo's website"
 description: "timoreo's personnal website"
+show_downloads: false
